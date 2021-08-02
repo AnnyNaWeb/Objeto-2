@@ -1,0 +1,11 @@
+2 grilos
+
+grilo é vetor
+cada grilo em uma thread
+
+distancia do pulo = random
+contador de pulos
+imprimir distancia total atual
+
+se linha de chegada, então
+	imprimir que chegou e com quantos pulos (contador) 
