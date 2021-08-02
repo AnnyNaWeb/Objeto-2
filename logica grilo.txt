@@ -1,3 +1,6 @@
+variável grilo inserida pelo usuário
+variável da linha de chegada inserida pelo usuário
+
 2 grilos
 
 grilo é vetor
