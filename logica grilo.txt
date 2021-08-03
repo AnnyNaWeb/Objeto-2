@@ -3,7 +3,7 @@ variável da linha de chegada inserida pelo usuário
 
 2 grilos
 
-grilo é vetor
+grilo é vetor? sim
 cada grilo em uma thread
 
 distancia do pulo = random
